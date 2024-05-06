@@ -1,3 +1,4 @@
 sun is far
 sun is a heat source
 sun is orange
+sun is of higher temperature
