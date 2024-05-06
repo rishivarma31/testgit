@@ -3,3 +3,4 @@ sun is a heat source
 sun is orange
 sun is of higher temperature
 sun is not a planet
+it is a light source
