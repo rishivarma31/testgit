@@ -4,3 +4,4 @@ sun is orange
 sun is of higher temperature
 sun is not a planet
 it is a light source
+it is a heat ball
